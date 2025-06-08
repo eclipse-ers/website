@@ -1,2 +1,0 @@
-# website
-Readability Studio website

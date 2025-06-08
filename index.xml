@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclipse Readability Studio - Home on Readability Analysis Software</title>
+    <link>http://localhost:1313/ers/</link>
+    <description>Recent content in Eclipse Readability Studio - Home on Readability Analysis Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Educators</title>
+      <link>http://localhost:1313/ers/educators/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+        
+      
+      <guid>http://localhost:1313/ers/educators/</guid>
+      <description>Educators Features for Educators Choosing the right materials for your students can be an arduous task. This is especially true when determining whether these learning materials are too difficult to read. With Readability Studio, you can determine the reading level of your materials, as well as guidance to make them easier to read.
+Tests are also available for determining which materials are a good fit for second-language students. Dolch sight words and the McAlpine EFLAW® test are provided for both young English and ESL (English as a Second Language) readers.</description>
+    </item>
+    
+    <item>
+      <title>Government</title>
+      <link>http://localhost:1313/ers/government/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+        
+      
+      <guid>http://localhost:1313/ers/government/</guid>
+      <description>Government Features for Military and Government Many readability tests were originally created as a method to measure the readability of enlistment applications and technical manuals for the U.S. military. Keeping with this tradition, Readability Studio offers many of these tests, as well as assistance with understanding their results and how to improve them.
+Visualizations Numerous graphs are provided to help present your results. This includes graphical tests (e.g., Fry and Raygor), as well as a bar charts, box plots, heat maps, and word clouds to visualize word and sentence statistics.</description>
+    </item>
+    
+    <item>
+      <title>Healthcare</title>
+      <link>http://localhost:1313/ers/healthcare/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+        
+      
+      <guid>http://localhost:1313/ers/healthcare/</guid>
+      <description>Healthcare Features for Healthcare From insurance forms to prescription instructions, healthcare workers have a large array of literature that they must deal with everyday. Determining whether these documents are too difficult for your patients to read is vital. To assist with this, Readability Studio provides your patient materials&amp;rsquo; reading levels and recommends areas of improvement.
+Excluding known words Text exclusion features enable you to remove words familiar to your patients from analysis.</description>
+    </item>
+    
+    <item>
+      <title>Publishing</title>
+      <link>http://localhost:1313/ers/publishing/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+        
+      
+      <guid>http://localhost:1313/ers/publishing/</guid>
+      <description>Publishers Features for Publishers To remain competitive in today&amp;rsquo;s market, publishers must be certain that their materials&amp;rsquo; reading level is meeting their respective target audiences. If articles are written with overly long sentences and unnecessarily complex words, then perspective readers are going to lose interest very quickly. With Readability Studio, you have the tools to determine the reading level of your articles, as well as tools to make them easier to read.</description>
+    </item>
+    
+    <item>
+      <title>Students</title>
+      <link>http://localhost:1313/ers/students/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+        
+      
+      <guid>http://localhost:1313/ers/students/</guid>
+      <description>Students Features for Students From homework essays to graduate student research, Readability Studio offers tools you need to ensure the quality of your work.
+Test recommendations Wizards and test bundles are provided to help you choose the right tests for your materials. Likewise, you can manually add tests at any time to your projects.
+Goals Goals, such as minimum word count or a maximum reading level, can be added to your project.</description>
+    </item>
+    
+    <item>
+      <title>Use Cases</title>
+      <link>http://localhost:1313/ers/use-cases/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+        
+      
+      <guid>http://localhost:1313/ers/use-cases/</guid>
+      <description>Use Cases Readability Studio provides support for numerous industries and individuals alike.
+Educators Tools for educators, writers, and students.
+Learn More Tools for enlistment forms, RFPs, and agency documentation.
+Learn More Government Healthcare Tools for patient instructions, consent forms, and insurance forms.
+Learn More Tools for online and print media publishers.
+Learn More Publishers Students Tools for homework essays to graduate student research.
+Learn More </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/ers/about/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      
+        
+      
+      <guid>http://localhost:1313/ers/about/</guid>
+      <description>About First released in 2006 by Oleander Software, Readability Studio has been the premier readability software for writers, educators, and researchers alike. From academia, hospitals, insurance companies, and publishing houses, our software has been trusted to improve the experience of reading and writing for users worldwide.
+In 2025, Readability Studio found its new home within the Eclipse Foundation, where it is now free and open source.
+Contact Coming soon&amp;hellip;
+Issues To report an issue or request a feature, please visit our Issue Tracker.</description>
+    </item>
+    
+    <item>
+      <title>Documentation</title>
+      <link>http://localhost:1313/ers/documentation/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      
+        
+      
+      <guid>http://localhost:1313/ers/documentation/</guid>
+      <description>Documentation User Manual Readability Test Reference Shortcuts Cheatsheet System Administrator Manual </description>
+    </item>
+    
+    <item>
+      <title>Download</title>
+      <link>http://localhost:1313/ers/download/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      
+        
+      
+      <guid>http://localhost:1313/ers/download/</guid>
+      <description>Download Windows Coming soon&amp;hellip;
+macOS Coming soon&amp;hellip;
+Linux Coming soon&amp;hellip;
+Source Code Readability Studio is a free and open source application. You are free to study, modify, and distribute it under Eclipse Public License.
+Github System Requirements Operating System : Windows 10 or higher / macOS 10.15 / Linux
+RAM : 2 GB at minimum required. 4 GB recommended.</description>
+    </item>
+    
+  </channel>
+</rss>
