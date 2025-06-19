@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ers/educators/</loc>
+    <loc>https://eclipse.dev/ers/educators/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ers/government/</loc>
+    <loc>https://eclipse.dev/ers/government/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ers/healthcare/</loc>
+    <loc>https://eclipse.dev/ers/healthcare/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ers/publishing/</loc>
+    <loc>https://eclipse.dev/ers/publishing/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ers/students/</loc>
+    <loc>https://eclipse.dev/ers/students/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ers/use-cases/</loc>
+    <loc>https://eclipse.dev/ers/use-cases/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ers/about/</loc>
+    <loc>https://eclipse.dev/ers/about/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ers/documentation/</loc>
+    <loc>https://eclipse.dev/ers/documentation/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ers/download/</loc>
+    <loc>https://eclipse.dev/ers/download/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ers/</loc>
+    <loc>https://eclipse.dev/ers/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ers/tags/</loc>
+    <loc>https://eclipse.dev/ers/tags/</loc>
   </url>
 </urlset>
