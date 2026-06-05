@@ -15,7 +15,7 @@
         
       
       <guid>https://eclipse.dev/ers/educators/</guid>
-      <description>Educators Features for Educators Choosing the right materials for your students can be an arduous task. This is especially true when determining whether these learning materials are too difficult to read. With Readability Studio, you can determine the reading level of your materials, as well as guidance to make them easier to read.
+      <description>Educators Features for Educators Choosing the right materials for your students can be an arduous task. This is especially true when determining whether these learning materials are too difficult to read. With Readability Studio, you can determine the reading level of your materials, as well as receive guidance to make them easier to read.
 Tests are also available for determining which materials are a good fit for second-language students. Dolch sight words and the McAlpine EFLAW® test are provided for both young English and ESL (English as a Second Language) readers.</description>
     </item>
     
@@ -39,7 +39,7 @@ Visualizations Numerous graphs are provided to help present your results. This i
         
       
       <guid>https://eclipse.dev/ers/healthcare/</guid>
-      <description>Healthcare Features for Healthcare From insurance forms to prescription instructions, healthcare workers have a large array of literature that they must deal with everyday. Determining whether these documents are too difficult for your patients to read is vital. To assist with this, Readability Studio provides your patient materials&amp;rsquo; reading levels and recommends areas of improvement.
+      <description>Healthcare Features for Healthcare From insurance forms to prescription instructions, healthcare workers have a large array of literature that they must deal with every day. Determining whether these documents are too difficult for your patients to read is vital. To assist with this, Readability Studio provides your patient materials&amp;rsquo; reading levels and recommends areas of improvement.
 Excluding known words Text exclusion features enable you to remove words familiar to your patients from analysis.</description>
     </item>
     
@@ -51,7 +51,7 @@ Excluding known words Text exclusion features enable you to remove words familia
         
       
       <guid>https://eclipse.dev/ers/publishing/</guid>
-      <description>Publishers Features for Publishers To remain competitive in today&amp;rsquo;s market, publishers must be certain that their materials&amp;rsquo; reading level is meeting their respective target audiences. If articles are written with overly long sentences and unnecessarily complex words, then perspective readers are going to lose interest very quickly. With Readability Studio, you have the tools to determine the reading level of your articles, as well as tools to make them easier to read.</description>
+      <description>Publishers Features for Publishers To remain competitive in today&amp;rsquo;s market, publishers must be certain that their materials&amp;rsquo; reading level is appropriate for their respective target audiences. If articles are written with overly long sentences and unnecessarily complex words, then prospective readers are going to lose interest very quickly. With Readability Studio, you have the tools to determine the reading level of your articles, as well as tools to make them easier to read.</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@ Excluding known words Text exclusion features enable you to remove words familia
         
       
       <guid>https://eclipse.dev/ers/students/</guid>
-      <description>Students Features for Students From homework essays to graduate student research, Readability Studio offers tools you need to ensure the quality of your work.
+      <description>Students Features for Students From homework essays to graduate student research, Readability Studio offers the tools you need to ensure the quality of your work.
 Test recommendations Wizards and test bundles are provided to help you choose the right tests for your materials. Likewise, you can manually add tests at any time to your projects.
 Goals Goals, such as minimum word count or a maximum reading level, can be added to your project.</description>
     </item>
@@ -94,8 +94,7 @@ Learn More </description>
       <guid>https://eclipse.dev/ers/about/</guid>
       <description>About First released in 2006 by Oleander Software, Readability Studio has been the premier readability software for writers, educators, and researchers alike. From academia, hospitals, insurance companies, and publishing houses, our software has been trusted to improve the experience of reading and writing for users worldwide.
 In 2025, Readability Studio found its new home within the Eclipse Foundation, where it is now free and open source.
-Contact Coming soon&amp;hellip;
-Issues To report an issue or request a feature, please visit our Issue Tracker.</description>
+Issues &amp;amp; Requests To report an issue or request a feature, please visit our Issue Tracker.</description>
     </item>
     
     <item>
@@ -106,7 +105,11 @@ Issues To report an issue or request a feature, please visit our Issue Tracker.<
         
       
       <guid>https://eclipse.dev/ers/documentation/</guid>
-      <description>Documentation User Manual Readability Test Reference Shortcuts Cheatsheet System Administrator Manual </description>
+      <description>Documentation User Manual The complete Readability Studio documentation—covering the program, readability tests, keyboard shortcuts, and glossaries.
+Readability Test Reference A reference covering the readability tests available in Readability Studio—how each test works and when to use it.
+Shortcuts Cheatsheet A quick-reference guide to Readability Studio&#39;s keyboard shortcuts.
+System Administrator Manual A guide for system administrators covering installing and updating Readability Studio deployments, as well as building it from source.
+Release Notes See what&#39;s new in the latest version of Readability Studio—new features, improvements, and bug fixes.</description>
     </item>
     
     <item>
@@ -117,11 +120,9 @@ Issues To report an issue or request a feature, please visit our Issue Tracker.<
         
       
       <guid>https://eclipse.dev/ers/download/</guid>
-      <description>Download Windows Coming soon&amp;hellip;
-macOS Coming soon&amp;hellip;
-Linux Coming soon&amp;hellip;
-Source Code Readability Studio is a free and open source application. You are free to study, modify, and distribute it under Eclipse Public License.
-Github System Requirements Operating System : Windows 10 or higher / macOS 10.15 / Linux
+      <description>Download Windows Download Installer macOS Coming soon...
+Linux Download AppImage (x86_64) Source Code Readability Studio is a free and open source application. You are free to study, modify, and distribute it under the Eclipse Public License.
+GitHub System Requirements Operating System : Windows 10 or higher / macOS 10.15 / Linux
 RAM : 2 GB at minimum required. 4 GB recommended.</description>
     </item>
     
