@@ -120,9 +120,7 @@ Release Notes See what&#39;s new in the latest version of Readability Studio—n
         
       
       <guid>https://eclipse.dev/ers/download/</guid>
-      <description>Download Windows Download Installer macOS Coming soon...
-Linux Download AppImage (x86_64) Source Code Readability Studio is a free and open source application. You are free to study, modify, and distribute it under the Eclipse Public License.
-GitHub System Requirements Operating System : Windows 10 or higher / macOS 10.15 / Linux
+      <description>Download Windows Installer (.exe) macOS Disk Image (.dmg) Linux — Ubuntu / Debian APT Package (.deb) Linux — AppImage Portable (x86_64) Source Code View on GitHub System Requirements Operating System : Windows 10 or higher / macOS 10.15 / Linux
 RAM : 2 GB at minimum required. 4 GB recommended.</description>
     </item>
     
